@@ -1,4 +1,3 @@
-## Hi there 👋
 # Halo semua! 
 
 Perkenalkan nama saya **Haidar Taqy**.<br>
